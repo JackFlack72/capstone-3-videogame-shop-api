@@ -204,6 +204,11 @@ The database comes with pre-configured test users:
 | user | password | ROLE_USER |
 | admin | password | ROLE_ADMIN |
 | george | password | ROLE_USER |
+| spongebob | pinneapple | ROLE_USER |
+| sandy | dome | ROLE_USER |
+| patrick | rock | ROLE_USER |
+| squidward | tiki | ROLE_USER |
+| mrkrabs | anchor | ROLE_USER |
 
 ## Database Schemas
 
